@@ -2,6 +2,10 @@ feature/enhance
 bugfix/hotfix
 support/
 
+v1.0.2 - 12 Juni 2022
+  - hotfix:
+    - fix: add code
+
 v1.0.1 - 22 April 2022
   - hotfix:
     - changelog: fix
